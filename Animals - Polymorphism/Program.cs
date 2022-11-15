@@ -61,6 +61,7 @@
     {
         public double TyreSize { get; set; }
     }
+
     abstract class Vehicle
     {
         public double TyreSize { get; set; }
