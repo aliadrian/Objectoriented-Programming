@@ -55,8 +55,8 @@
         {
             Console.WriteLine($"{name} and {age} are saved on {date}");
         }
-
     }
+
     interface ITyreSize
     {
         public double TyreSize { get; set; }
@@ -123,5 +123,4 @@
             Console.WriteLine("IceCream Type : Chocolae");
         }
     }
-
 }
