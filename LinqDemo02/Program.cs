@@ -42,7 +42,7 @@
 
             var q4 = people
                 .MinBy(p => p.Age);
-            Console.WriteLine(q4.Name);
+            Console.WriteLine(q4?.Name);
 
             Console.WriteLine();
 
@@ -54,7 +54,7 @@
 
             var q6 = people
                 .MaxBy(p => p.Name.Length);
-            Console.WriteLine(q6.Name);
+            Console.WriteLine(q6?.Name);
 
             Console.WriteLine();
 
