@@ -9,8 +9,6 @@ namespace LINQ
     internal class Program
     {
         private const string Path = @"C:\Users\AliNasrat\source\repos\Objectoriented Programming\LINQ\names.csv";
-
-        //private static List<Person> people;
         private static void Main(string[] args)
         {
             var query = File.ReadAllLines(Path, System.Text.Encoding.Latin1)
