@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace LINQ
 {
-    public class Person : IEqualityComparer<Person>
+    public class Person
     {
         public string Name { get; set; }
         public DateTime NameDay { get; set; }
