@@ -31,7 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqDemo02", "LinqDemo02\Li
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Animals - Polymorphism", "Animals - Polymorphism\Animals - Polymorphism.csproj", "{5E5D4075-9294-4D90-B7B6-D91C5632C5FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{4F7C4C2C-F3B7-4C6E-9603-C1AF76B26662}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ", "LINQ\LINQ.csproj", "{4F7C4C2C-F3B7-4C6E-9603-C1AF76B26662}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ Repetition", "LINQ Repetition\LINQ Repetition.csproj", "{304E07A6-BE72-45D2-A961-5D5AFF073B43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{4F7C4C2C-F3B7-4C6E-9603-C1AF76B26662}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F7C4C2C-F3B7-4C6E-9603-C1AF76B26662}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F7C4C2C-F3B7-4C6E-9603-C1AF76B26662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{304E07A6-BE72-45D2-A961-5D5AFF073B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{304E07A6-BE72-45D2-A961-5D5AFF073B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{304E07A6-BE72-45D2-A961-5D5AFF073B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{304E07A6-BE72-45D2-A961-5D5AFF073B43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
